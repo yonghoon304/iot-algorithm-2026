@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../../../../../../../../SourceBank/iot-algorithm-2026/basic/algorithm03/app01/app01.vcxproj" Id="9639ae59-8d6d-42ee-b6bf-1bbd50574ac0" />
+  <Project Path="../../../../../../../../SourceBank/iot-algorithm-2026/basic/algorithm03/app02/app02.vcxproj" Id="331f82ca-9398-4b76-b6bc-81e48ceb2104" />
+  <Project Path="../../../../../../../../SourceBank/iot-algorithm-2026/basic/algorithm03/app03/app03.vcxproj" Id="5134782d-3b86-4c03-81d9-7ab427336007" />
+  <Project Path="../../../../../../../../SourceBank/iot-algorithm-2026/basic/algorithm03/app04/app04.vcxproj" Id="e2342ef3-b4d7-49e1-ae95-f205178ce8ed" />
+  <Project Path="../../../../../../../../SourceBank/iot-algorithm-2026/basic/algorithm03/app05/app05.vcxproj" Id="9031840d-8e33-48a2-a924-25330115b217" />
+  <Project Path="../../../../../../../../SourceBank/iot-algorithm-2026/basic/algorithm03/app06/app06.vcxproj" Id="d7b0c5e0-138a-411c-a447-1bb0968761eb" />
+</Solution>
