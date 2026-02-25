@@ -5,4 +5,8 @@
   </Configurations>
   <Project Path="app01/app01.vcxproj" Id="4d936bf8-9760-4950-9394-a362baa99c7b" />
   <Project Path="app02/app02.vcxproj" Id="3af069f3-71f4-4665-ba4f-84e3f7cf3fc5" />
+  <Project Path="quiz01/quiz01.vcxproj" Id="4aa1b67b-6740-4413-b050-5f4dd597d87b" />
+  <Project Path="quiz02/quiz02.vcxproj" Id="d984e503-7d56-4cbe-8f6e-53be0922638f" />
+  <Project Path="quiz03/quiz03.vcxproj" Id="c48723cd-7667-47cc-872f-10ce52b13669" />
+  <Project Path="quiz04/quiz04.vcxproj" Id="8442e0aa-ff15-4353-b72e-1c6bb3dc023d" />
 </Solution>
