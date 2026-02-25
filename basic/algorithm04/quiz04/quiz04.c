@@ -10,16 +10,17 @@ int main() {
     char name[50];
     char topName[50];
     int score;
-    int topScore = -1;
-
+    int topScore = -1; // 안전빵
+    puts("정수 N 입력");
     scanf("%d", &N);
 
-    for (int i = 0; i < N; i++) {
+    for (int i = 1; i < N+1; i++) {
+        printf("[%d]번 이름과 점수 입력하세요 > ",i);
         scanf("%s %d", name, &score);
 
         if (score > topScore) {   // 동점은 제외 (먼저 나온 학생 유지)
             topScore = score;
-            sprintf(topName, "%s", name);
+            sprintf(topName, "%s", name);   // 메모이제이션
         }
     }
 
